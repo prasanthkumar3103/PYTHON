@@ -1,0 +1,105 @@
+1.Python
+-----
+# it is there is in market almost for 3 decades.
+# python is open source(then it has got identity)
+# it is object oriented approach.
+# you can it as scripting language.
+# python is not over rule other lanugage(it is false),
+  do u find c or java going out of the market.
+
+
+Example:-
+---------
+# i want to show some specification results to my clients very quickly,  
+then i can catch my python impression from clients.
+
+# it is economical language
+
+
+2.Reason for python identity in recent times
+------------------------------------------
+# it is nearest human language readable.
+
+# python has easy integration with other languages.
+
+3.core-highlights of python
+------------------------
+# it is object oriented approach.
+# it helps encapsulation standard like other languages.
+# python can be used as a scripting language or can be compiled to byte code for large
+  application
+# like other languages python garbage collection.
+
+4.Main features of python
+-------------------------
+# standardard python common library(while you program you need cross verify based on os(android/windows/mac/linux applications) like 
+  what kind of modules i have import along with parameters).
+
+most famous programming languages that exists in the world
+---------------------------------------------------------
+ # assembly based
+ # modular
+ # object oriented 
+ # structured
+ # functional approach(big data/artificial intelligence)
+
+python is combination of all of above.
+
+
+Notes:-
+-------
+ we generally say it is not compiled language.
+ sol :- dont think that is in-secured,you write python script embed that into any particular 
+	language that can produce you a byte code.
+	
+	this byte code run on any machine.
+
+
+How to run python?
+-----------------
+# interactive interpreter
+		command line(windows/linux/or any other system)
+	how it is interactive?(one line statement)
+	>>> echo "This is my first python output"
+	This is my first python output
+once you've asked, displaying immediately is called interactive.
+	
+# Script from command line(integrated collection of instruction)
+		we can execute a python script which is with .py extension at command
+		line.
+		--- control structure(if,loops)
+		--- functions
+
+	>>>print ("my first name is: prashanth)
+
+	>>>print ("my middle name is: kumar)
+
+	>>>print ("my last name is: pamula)
+
+	here you get traceback issue
+
+
+# integrated development environment(larger development)
+	with editors/IDE(it provides facilities and features, we will develops.
+
+	print ("my first name is: prashanth)
+	print ("my middle name is: kumar)
+	print ("my last name is: pamula)
+	
+save this file with .py extension
+
+execute this file as follows, python script01.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
